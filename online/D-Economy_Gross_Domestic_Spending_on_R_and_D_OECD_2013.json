@@ -1,4 +1,5 @@
 {
+    "original_title": "Share of GDP for national expenditure for research and development",
     "original_indicator_code": "doi: 10.1787/d8b068b4-en",
     "title": "Forschungsausgaben in % am BIP",
     "indicator_code": "",
@@ -11,7 +12,7 @@
         "multiplier": "1"
     },
     "target": {
-        "type": "tbd",
+        "type": "more",
         "value": "4"
     },
     "explanation_of_target": "Laut Europe 2020 Strategie sollen die EU Länder bis 2020 mindestens 3% des BIP für Forschung und Entwicklung ausgeben.",
@@ -21,7 +22,7 @@
     "indicator_type": "global",
     "indicator_source": {
         "value": "SDSN",
-        "type": "tbd"
+        "type": "official"
     },
     "link": "https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm",
     "tags": [
